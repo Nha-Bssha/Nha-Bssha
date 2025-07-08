@@ -50,7 +50,7 @@
 
 ---
 
-### 3. 🛒 Optimisation et automatisation des données produits e-commerce  
+### 3. 🛒 Optimisation et automatisation des données d'un e-commerce  
 - **Thématique** : E-commerce / Intégration & qualité des données  
 - ❓ **Problématique** : Comment fiabiliser et automatiser la gestion des données entre un ERP interne et un CMS e-commerce ?  
 - 🎯 **Objectif** : Nettoyer, croiser et automatiser l'intégration des données produits et ventes pour améliorer le pilotage de l'activité.  
@@ -62,7 +62,7 @@
   - Détection des outliers (prix) entre vins courants et vins de prestige  
   - Pipeline de contrôle qualité pour fiabiliser les analyses internes  
 
-🔗 [Slides PowerPoint](https://github.com/Nha-Bssha)
+🔗 [Slides PowerPoint 3](https://1drv.ms/p/c/d3757a171cf8daaf/EczkDKtx-rFJhpm1URMrOSYBAgJVyZE680VFzo2wJ3Zi9g?e=8KQDmG)
 
 ---
 
