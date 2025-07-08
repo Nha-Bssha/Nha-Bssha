@@ -21,7 +21,7 @@
 ## 🇫🇷 Projets Data Analyse
 
 ### 1. 🏡 Analyse du marché immobilier en France  
-- **Thématique** : Immobilier / Données publiques  
+- **Thématique** : Immobilier / Données publiques
 - ❓ **Problématique** : Comment structurer une base de données relationnelle fiable pour suivre l’évolution du marché immobilier français ?  
 - 🎯 **Objectif** : Mettre à jour et améliorer une base de données relationnelle pour analyser les transactions immobilières et foncières en France.  
 - 🛠 **Stack** : SQLite Studio, SQL, MCD, 3FN  
@@ -36,7 +36,7 @@
 ---
 
 ### 2. 🌍 Analyse FAO : sous-nutrition dans le monde  
-- **Thématique** : Humanitaire / Agriculture / Économie mondiale  
+- **Thématique** : Humanitaire / Agriculture / Économie mondiale
 - ❓ **Problématique** : Quels déséquilibres expliquent la persistance de la sous-nutrition à l’échelle mondiale malgré une production alimentaire suffisante ?  
 - 🎯 **Objectif** : Explorer les inégalités structurelles d’accès à l’alimentation à travers une analyse géopolitique, économique et nutritionnelle.  
 - 🛠 **Stack** : Python, GeoPandas, Matplotlib  
@@ -51,7 +51,7 @@
 ---
 
 ### 3. 🛒 Optimisation et automatisation des données d'un e-commerce  
-- **Thématique** : E-commerce / Intégration & qualité des données  
+- **Thématique** : E-commerce / Intégration & qualité des données
 - ❓ **Problématique** : Comment fiabiliser et automatiser la gestion des données entre un ERP interne et un CMS e-commerce ?  
 - 🎯 **Objectif** : Nettoyer, croiser et automatiser l'intégration des données produits et ventes pour améliorer le pilotage de l'activité.  
 - 🛠 **Stack** : Python (Pandas), ERP, CMS, analyse univariée, jointures, méthode IQR, Z-score  
