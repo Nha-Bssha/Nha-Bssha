@@ -31,7 +31,7 @@
   - Ajout des régions et population aux communes pour analyses croisées
   - 12 requêtes SQL pour explorer le marché : prix au m², écarts F2/F3, communes les plus dynamiques, évolution trimestrielle, etc.
 
-🔗 [Slides PowerPoint](https://github.com/Nha-Bssha)
+🔗 [Slides PowerPoint 1](https://1drv.ms/p/c/d3757a171cf8daaf/Edu7qRL-cuNGgrbz9s31lHoB9QK8PjmlpftPv1M82DIFWw?e=jtEdKW)
 
 ---
 
