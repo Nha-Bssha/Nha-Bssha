@@ -68,7 +68,7 @@
 
 ### 4. 📦 Comportement de consommation des clients e-commerce (Python)
 - **Thématique** : Segmentation / Comportement client
--❓**Problématique** : Quels sont les profils d’acheteurs les plus fréquents sur un site e-commerce ?
+-❓ **Problématique** : Quels sont les profils d’acheteurs les plus fréquents sur un site e-commerce ?
 - 🎯 **Objectif** : Réaliser une segmentation client par clustering (K-Means) et interpréter les comportements selon le genre, l’âge, le type de clientèle (B2B/B2C), et les périodes de l’année.
 - 🛠 **Stack** : Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
@@ -85,7 +85,7 @@
 
 ### 5. 👩‍💼 Automatisation de reporting RH (Knime)
 - **Thématique** : Ressources humaines / Données métier
--❓**Problématique** : Comment automatiser et fiabiliser le reporting RH d’une entreprise tout en respectant la confidentialité des données ?
+-❓ **Problématique** : Comment automatiser et fiabiliser le reporting RH d’une entreprise tout en respectant la confidentialité des données ?
 - 🎯 **Objectif** : Développer un pipeline low-code sous Knime pour produire un rapport RH complet et réutilisable chaque année.
 - 🛠 **Stack** : Knime, Excel, Tableaux croisés, Z-score, agrégations, logique conditionnelle
 
