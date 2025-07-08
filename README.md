@@ -46,7 +46,7 @@
   - Étude de cas : Thaïlande, Égypte, Autriche, Syrie, Yémen, Soudan, etc.
   - Mise en évidence du paradoxe surabondance/sous-nutrition
 
-🔗 [Slides PowerPoint](https://github.com/Nha-Bssha)
+🔗 [Slides PowerPoint 2](https://1drv.ms/p/c/d3757a171cf8daaf/ERM9pDYi4KtLm-8ryKa-tloBGqTwpW7YM8smzrIcSWLaIg?e=IbZb88)
 
 ---
 
