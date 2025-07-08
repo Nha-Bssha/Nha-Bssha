@@ -31,7 +31,7 @@
   - Ajout des régions et population aux communes pour analyses croisées
   - 12 requêtes SQL pour explorer le marché : prix au m², écarts F2/F3, communes les plus dynamiques, évolution trimestrielle, etc.
 
-🔗 [Slides PowerPoint 1](https://1drv.ms/p/c/d3757a171cf8daaf/Edu7qRL-cuNGgrbz9s31lHoB9QK8PjmlpftPv1M82DIFWw?e=jtEdKW)
+🔗 [Slides PowerPoint projet 1](https://1drv.ms/p/c/d3757a171cf8daaf/Edu7qRL-cuNGgrbz9s31lHoB9QK8PjmlpftPv1M82DIFWw?e=jtEdKW)
 
 ---
 
@@ -46,7 +46,7 @@
   - Étude de cas : Thaïlande, Égypte, Autriche, Syrie, Yémen, Soudan, etc.
   - Mise en évidence du paradoxe surabondance/sous-nutrition
 
-🔗 [Slides PowerPoint 2](https://1drv.ms/p/c/d3757a171cf8daaf/ERM9pDYi4KtLm-8ryKa-tloBGqTwpW7YM8smzrIcSWLaIg?e=IbZb88)
+🔗 [Slides PowerPoint projet 2](https://1drv.ms/p/c/d3757a171cf8daaf/ERM9pDYi4KtLm-8ryKa-tloBGqTwpW7YM8smzrIcSWLaIg?e=IbZb88)
 
 ---
 
@@ -62,33 +62,19 @@
   - Détection des outliers (prix) entre vins courants et vins de prestige  
   - Pipeline de contrôle qualité pour fiabiliser les analyses internes  
 
-🔗 [Slides PowerPoint 3](https://1drv.ms/p/c/d3757a171cf8daaf/EczkDKtx-rFJhpm1URMrOSYBAgJVyZE680VFzo2wJ3Zi9g?e=8KQDmG)
+🔗 [Slides PowerPoint projet 3](https://1drv.ms/p/c/d3757a171cf8daaf/EczkDKtx-rFJhpm1URMrOSYBAgJVyZE680VFzo2wJ3Zi9g?e=8KQDmG)
 
----
+### 4. 📦 Comportement de consommation des clients e-commerce (Python)
+- **Thématique** : Segmentation / Comportement client
+-❓**Problématique** : Quels sont les profils d’acheteurs les plus fréquents sur un site e-commerce ?
+- 🎯 **Objectif** : Réaliser une segmentation client par clustering (K-Means) et interpréter les comportements selon le genre, l’âge, le type de clientèle (B2B/B2C), et les périodes de l’année.
+- 🛠 **Stack** : Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
-### 4. 🤷‍♂️ Comportement de consommation des clients e-commerce  
-*Section à ajouter ici – je peux te proposer une structure complète sur demande.*
+- 📊 **Résultats clés** :
+- 2 types de clients : BtoB et BtoC ; parité chez les B2C mais déséquilibre chez les B2B
+- +23,66 % de chiffre d'affaires entre 2021 et 2022
+- 7,36 % du CA en 2022 généré par seulement 4 clients B2B → forte concentration (Courbe de Lorenz)
+- Corrélations négatives modérées entre l’âge et : total des achats, fréquence, taille du panier moyen
+- Inégalité d’accès aux catégories produits selon le genre
 
----
-
-### 5. 🚗 Automatisation de reporting RH  
-*Section à ajouter ici – je peux te la générer en quelques secondes.*
-
----
-
-### 6. 📉 Analyse de l’attrition client Telco  
-*Section à ajouter ici – projet Power BI avec DAX, segmentation et CLV.*
-
----
-
-### 7. 🌍 Lancement activité agro-alimentaire à l'international  
-*Déjà traité – section à recopier ou régénérer avec les bonnes métriques de clustering (K-Means, CAH, ACP).*
-
----
-
-### 8. 🧾 Modèle prédictif de faux billets (Machine Learning)  
-*Section à ajouter ici – projet Python supervisé avec pipeline ML, GridSearchCV, etc.*
-
----
-
-Souhaites-tu que je te génère maintenant les sections manquantes (4 à 8) pour que tu aies un fichier **entièrement complet** ?
+🔗 [Slides PowerPoint projet 4](https://1drv.ms/p/c/d3757a171cf8daaf/EfNRC9xh8odImIVZrTACIKwBWySPgi7UjRvJsPMEnw4tug?e=9Wv5LW)
