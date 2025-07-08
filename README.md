@@ -68,7 +68,7 @@
 
 ### 4. 📦 Comportement de consommation des clients e-commerce (Python)
 - **Thématique** : Segmentation / Comportement client
--❓ **Problématique** : Quels sont les profils d’acheteurs les plus fréquents sur un site e-commerce ?
+- ❓ **Problématique** : Quels sont les profils d’acheteurs les plus fréquents sur un site e-commerce ?
 - 🎯 **Objectif** : Réaliser une segmentation client par clustering (K-Means) et interpréter les comportements selon le genre, l’âge, le type de clientèle (B2B/B2C), et les périodes de l’année.
 - 🛠 **Stack** : Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
@@ -85,7 +85,7 @@
 
 ### 5. 👩‍💼 Automatisation de reporting RH (Knime)
 - **Thématique** : Ressources humaines / Données métier
--❓ **Problématique** : Comment automatiser et fiabiliser le reporting RH d’une entreprise tout en respectant la confidentialité des données ?
+- ❓ **Problématique** : Comment automatiser et fiabiliser le reporting RH d’une entreprise tout en respectant la confidentialité des données ?
 - 🎯 **Objectif** : Développer un pipeline low-code sous Knime pour produire un rapport RH complet et réutilisable chaque année.
 - 🛠 **Stack** : Knime, Excel, Tableaux croisés, Z-score, agrégations, logique conditionnelle
 
@@ -101,7 +101,7 @@
 
 ### 6. 📉 Analyse de l’attrition client Telco (Power BI, DAX)
 - **Thématique** : Churn / Satisfaction client
--❓ **Problématique** : Comment identifier les profils à risque de résiliation chez un opérateur télécom ?
+- ❓ **Problématique** : Comment identifier les profils à risque de résiliation chez un opérateur télécom ?
 - 🎯 **Objectif** : Élaborer un dashboard Power BI interactif pour analyser les comportements d’attrition selon l’âge, les offres, la satisfaction et les indicateurs métiers.
 - 🛠 **Stack** : Power BI, Power Query, DAX, Modèle en étoile, KPI, rapport publié
 
@@ -118,7 +118,7 @@
 
 ### 7. 🌍 Lancement activité agro-alimentaire à l'international (Python, ML non supervisé)
 - **Thématique** : International / Clusterisation / Analyse de marché
--❓ **Problématique** : Quels sont les pays les plus propices à l’export de volailles prêtes à la consommation ?
+- ❓ **Problématique** : Quels sont les pays les plus propices à l’export de volailles prêtes à la consommation ?
 - 🎯 **Objectif** : Réaliser une analyse PESTEL puis segmenter les pays selon leur autosuffisance, stabilité, consommation et dépendance aux importations.
 - 🛠 **Stack** : Python (Pandas, Scikit-learn, Plotly), FAO, Isolation Forest, K-Means, CAH, ACP
 
@@ -133,7 +133,7 @@
 
 ### 8. 🧾 Modèle prédictif de faux billets (Python, ML supervisé)
 - **Thématique** : Sécurité / Classification binaire
--❓ **Problématique** : Peut-on détecter automatiquement des faux billets à partir de leurs caractéristiques physiques ?
+- ❓ **Problématique** : Peut-on détecter automatiquement des faux billets à partir de leurs caractéristiques physiques ?
 - 🎯 **Objectif** : Construire un pipeline de machine learning pour classifier les billets comme authentiques ou falsifiés.
 - 🛠 **Stack** : Python (Pandas, Scikit-learn), Régression logistique, GridSearchCV, RFECV, validation croisée
 
