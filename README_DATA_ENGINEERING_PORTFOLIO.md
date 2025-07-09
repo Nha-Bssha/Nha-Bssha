@@ -2,7 +2,7 @@
 # 🛠️ Portfolio · Data Engineering
 
 👩‍💻 **Naziha Boussemaha**  
-📍 France | Reconversion Data Engineer | Full Remote Friendly  
+📍 France | Reconversion Data Engineer | Présentiel | Hybride | Full Remote Friendly  
 📧 nboussem81@outlook.fr  
 🔗 [LinkedIn](https://www.linkedin.com/in/nabdb2a441200/) · [GitHub](https://github.com/Nha-Bssha/)
 
