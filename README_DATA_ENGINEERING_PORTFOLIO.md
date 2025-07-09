@@ -10,8 +10,13 @@
 
 ## 🎯 Objectif
 
-Ce portfolio présente mes projets d’ingénierie de la donnée réalisés dans le cadre de ma montée en compétences vers le métier de **Data Engineer**.  
-Je m’intéresse aux pipelines fiables, à la gouvernance des données et aux usages citoyens.
+Ce portfolio reflète mon parcours de reconversion vers le métier de Data Engineer, guidé par une montée en compétences autonome et progressive, en attendant de rejoindre une entreprise alignée avec mes valeurs et ma vision du métier.
+
+Encore novice dans ce domaine, je construis pas à pas ma compréhension des enjeux réels de l’ingénierie des données, à travers des projets concrets, des lectures, des expérimentations… Je découvre aussi la complexité du terrain : la fiabilité, la volumétrie, les formats hétérogènes, la standardisation, la documentation, etc.
+
+Mon objectif est clair : mettre mes compétences au service de projets sincères, humains et à impact positif, qu’il s’agisse de données publiques, de transparence démocratique, de climat, d’éducation ou de santé.
+
+Ce portfolio témoigne à la fois de mon apprentissage technique en cours et de ma volonté d’apprendre auprès de professionnels expérimentés, dans un environnement bienveillant et engagé.
 
 ---
 
