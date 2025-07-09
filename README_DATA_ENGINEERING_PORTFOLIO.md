@@ -20,7 +20,8 @@ Ce portfolio témoigne à la fois de mon apprentissage technique en cours et de 
 
 ---
 
-## 🧱 Projet principal : ETL-OPENDATA
+## 🧱 Projet principal : DataHub Citoyen : Intégration & Valorisation des Données Publiques![image](https://github.com/user-attachments/assets/a640c174-1a29-4e97-9c61-91476e024242)
+
 
 📂 [Lien vers le projet complet sur GitHub](https://github.com/Nha-Bssha/etl-opendata)
 
