@@ -10,13 +10,13 @@
 
 ## 🎯 Objectif
 
-Ce portfolio reflète mon parcours de reconversion vers le métier de Data Engineer, guidé par une montée en compétences autonome et progressive, en attendant de rejoindre une entreprise alignée avec mes valeurs et ma vision du métier.
+Ce portfolio reflète mon parcours de reconversion vers le métier de Data Engineer, guidé par une montée en compétences autonome et progressive, en attendant de rejoindre une entreprise alignée avec mes valeurs, ma vision et ma sincérité.
 
 Encore novice dans ce domaine, je construis pas à pas ma compréhension des enjeux réels de l’ingénierie des données, à travers des projets concrets, des lectures, des expérimentations… Je découvre aussi la complexité du terrain : la fiabilité, la volumétrie, les formats hétérogènes, la standardisation, la documentation, etc.
 
 Mon objectif est clair : mettre mes compétences au service de projets sincères, humains et à impact positif, qu’il s’agisse de données publiques, de transparence démocratique, de climat, d’éducation ou de santé.
 
-Ce portfolio témoigne à la fois de mon apprentissage technique en cours et de ma volonté d’apprendre auprès de professionnels expérimentés, dans un environnement bienveillant et engagé.
+Ce portfolio témoigne à la fois de mon apprentissage technique en cours, de mon intégrité personnelle et de ma volonté d’apprendre auprès de professionnels expérimentés, dans un environnement bienveillant et engagé.
 
 ---
 
