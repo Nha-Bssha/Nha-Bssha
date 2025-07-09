@@ -40,7 +40,7 @@ Python · DuckDB · Pandas · Logging · CSV/JSON/GeoJSON · Modularisation
 
 ---
 
-## 📁 Autres projets à venir
+## 📁 Autres projets à venir (in shâ Allah)
 
 - Projet d’orchestration Airflow : ingestion de données météorologiques
 - Déploiement d’un dashboard avec Streamlit
